@@ -3,7 +3,7 @@
 > Status: Developer ☝️
 
 ### Objetivo 
-#### Segundo desafio do Ignite. Nesse desafio vamos um pouco mais longe no uso dos HOOKS [**useState**](https://pt-br.reactjs.org/docs/hooks-state.html)  
+#### Segundo desafio do Ignite. Nesse desafio vamos um pouco mais longe no uso dos HOOKS, contendo [**useState**](https://pt-br.reactjs.org/docs/hooks-state.html) e [**useEffect**](https://pt-br.reactjs.org/docs/hooks-effect.html)   
 
 <div align="center"> 
   <img src= "./assets/watch.gif" width = "900">
